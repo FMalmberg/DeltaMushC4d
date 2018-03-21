@@ -1,0 +1,7 @@
+STRINGTABLE Odeltamush
+{
+	Odeltamush "Delta Mush";
+
+	ITERATIONS	"Smoothing iterations";
+	REFERENCE_OBJECT	"Reference object";
+}

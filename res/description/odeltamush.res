@@ -1,0 +1,12 @@
+CONTAINER Odeltamush
+{
+	NAME Odeltamush;
+	INCLUDE Obase;
+
+	GROUP ID_OBJECTPROPERTIES
+	{
+		LONG ITERATIONS	   { MIN 0; }
+		LINK REFERENCE_OBJECT {}
+
+	}
+}
