@@ -15,8 +15,9 @@ to be deformed. In the "reference object" field, you can place another object re
 state of the object. The "Smoothing iterations" field controls how much the deformation between the mesh and
 the reference object is smoothed. Higher values give smoother results. If the "reference object" field
 is empty, the plugin applies standard mesh smoothing to the deformed object, i.e., the entire mesh is
-smoothed and no details are preserved. The plugin is compiled for C4d version 14 under Windows, but should work with
-later versions as well.
+smoothed and no details are preserved. 
+
+The plugin is compiled for C4d R14 under Windows, but should work with later versions as well. The OS X version (kindly compiled by cgtalk member NWoolridge) works for R19.
 
 [1] Mancewicz, Joe, et al. 
 "Delta Mush: smoothing deformations while preserving detail." 
